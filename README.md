@@ -1,5 +1,6 @@
 ![360_F_146911624_MpozeTIQOoTUUURHWbhFc3Gleql65npI](https://github.com/user-attachments/assets/feb97fff-c86e-4618-8eae-add7ca9eb24a)
 
+✨ - This tool allows users to generate masked phishing URLs, providing a method for URL manipulation for educational and informational purposes only. It is designed to demonstrate the concepts of phishing link obfuscation and how malicious actors may attempt to hide the true destination of a URL. The tool performs basic URL validation, ensuring that the provided URL is in the proper http or https format, and then generates a masked version of the URL.
 
 **Installation Tutoriall: (Linux/Termux/ETC..)**
 
