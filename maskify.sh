@@ -16,7 +16,7 @@ echo -e "\e[32m┃┃\e[36m┃\e[34m┣┫\e[33m┗┓\e[35m┃┫ \e[31m┃┣ 
 echo -e "\e[36m┛ \e[34m┗┛\e[32m┗┗\e[33m┛┛\e[35m┗┛┻┻ \e[31m┗┛\e[0m\n"
 echo -e "\e[30;48;5;82m    Copyright \e[40;38;5;82m   CetDev \e[0m \n\n"
 echo -e "\e[1;31;42m ### Phishing URL ###\e[0m \n"
-echo -e "\e[34m➡ Paste Phishing URL here (with http or https):\e[0m"
+echo -e "\e[34m➡ Phishing page domain (HTTP/HTTPS) (include http or https).\e[0m"
 
 read phish
 url_checker $phish
